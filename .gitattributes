@@ -1,1 +1,2 @@
-
+*.Laravel linguist-language = Laravel
+CHANGELOG.md export-ignore
